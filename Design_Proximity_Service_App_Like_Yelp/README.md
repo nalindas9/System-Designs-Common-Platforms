@@ -4,4 +4,4 @@
 
 ![Design_A_Proximity_Service_App_Like_Yelp - Page 2](https://github.com/nalindas9/System-Designs-Common-Platforms/assets/44141068/e9f79f79-da0a-4a7c-85b3-71aca33e1afb)
 
-![Design_A_Proximity_Service_App_Like_Yelp - HLD-API_DESIGN](https://github.com/nalindas9/System-Designs-Common-Platforms/assets/44141068/6a3afe25-4590-4df0-bec1-2fd1ee36b4b7)
+![Design_A_Proximity_Service_App_Like_Yelp - HLD-API_DESIGN](https://github.com/nalindas9/System-Designs-Common-Platforms/assets/44141068/03a8fc68-2ea1-40d1-a60d-84825f5a83a6)
