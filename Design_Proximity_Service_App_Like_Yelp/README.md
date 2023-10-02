@@ -9,3 +9,7 @@
 ![Design_A_Proximity_Service_App_Like_Yelp - HLD-DATA SCHEMA](https://github.com/nalindas9/System-Designs-Common-Platforms/assets/44141068/5cea9ddd-ff3f-412c-a52e-658dd42bdde1)
 
 ![Design_A_Proximity_Service_App_Like_Yelp - HLD-2](https://github.com/nalindas9/System-Designs-Common-Platforms/assets/44141068/4741a61b-1093-43cb-873f-676981f5078b)
+
+## Geobased Database Indexing
+
+![Design_A_Proximity_Service_App_Like_Yelp - Geobased-Database-Indexing](https://github.com/nalindas9/System-Designs-Common-Platforms/assets/44141068/130680c8-c205-481e-9daa-622074149a0a)
